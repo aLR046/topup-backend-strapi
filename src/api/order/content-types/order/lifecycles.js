@@ -1,4 +1,4 @@
-export default {
+module.exports = {
   async beforeCreate(event) {
     const { data } = event.params;
 
